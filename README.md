@@ -6,4 +6,4 @@
 
 ## `Dashboard_layout` Project
 
-Project assignment for creating a web layout
+Project assignment for creating user inerface
